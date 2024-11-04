@@ -1,3 +1,11 @@
+body{
+    color: rgb(255, 255, 255);
+    background: rgb(255, 48, 48);
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+    margin-bottom: 100px;
+}
+
 .chamada{
     background: rgb(243, 31, 31);
     margin-top: 80px;
